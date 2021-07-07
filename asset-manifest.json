@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Lewisjohnward/d3-cheat-sheat/static/css/main.a617e044.chunk.css",
+    "main.js": "/Lewisjohnward/d3-cheat-sheat/static/js/main.88edc7b8.chunk.js",
+    "main.js.map": "/Lewisjohnward/d3-cheat-sheat/static/js/main.88edc7b8.chunk.js.map",
+    "runtime-main.js": "/Lewisjohnward/d3-cheat-sheat/static/js/runtime-main.252f0fa9.js",
+    "runtime-main.js.map": "/Lewisjohnward/d3-cheat-sheat/static/js/runtime-main.252f0fa9.js.map",
+    "static/js/2.356c2c50.chunk.js": "/Lewisjohnward/d3-cheat-sheat/static/js/2.356c2c50.chunk.js",
+    "static/js/2.356c2c50.chunk.js.map": "/Lewisjohnward/d3-cheat-sheat/static/js/2.356c2c50.chunk.js.map",
+    "static/js/3.3fe16965.chunk.js": "/Lewisjohnward/d3-cheat-sheat/static/js/3.3fe16965.chunk.js",
+    "static/js/3.3fe16965.chunk.js.map": "/Lewisjohnward/d3-cheat-sheat/static/js/3.3fe16965.chunk.js.map",
+    "index.html": "/Lewisjohnward/d3-cheat-sheat/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Lewisjohnward/d3-cheat-sheat/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.356c2c50.chunk.js.LICENSE.txt": "/Lewisjohnward/d3-cheat-sheat/static/js/2.356c2c50.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Lewisjohnward/d3-cheat-sheat/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.252f0fa9.js",
+    "static/js/2.356c2c50.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.88edc7b8.chunk.js"
+  ]
+}
